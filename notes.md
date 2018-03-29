@@ -27,3 +27,11 @@ display flex -> https://flexbox.io/
 * https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
 
 ###### regex matching return string matched.
+
+# 07 - Array Cardio Day 2
+
+.some() (any with python)
+.every() (all with python)
+.find() return searched element
+.findIndex() return index of searched element
+.splice(index, n) remove n element from index
