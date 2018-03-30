@@ -35,3 +35,26 @@ display flex -> https://flexbox.io/
 .find() return searched element
 .findIndex() return index of searched element
 .splice(index, n) remove n element from index
+
+# 09 - Dev Tools Domination
+
+console.time('str')
+...
+console.timeEnd('str')
+
+console.table(obj)
+console.dir(obj)
+
+# 11 - Custom Video Player
+video.pause()
+video.play()
+
+## property
+video.paused
+video.duration
+video.currentTime
+
+
+video.eventListener('play')
+video.eventListener('pause')
+video.eventListener('timeupdate')
